@@ -1,6 +1,5 @@
 landmark
-simon
-dominion
+mercy
 Ayo
 obi
 manager
